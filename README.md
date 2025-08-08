@@ -9,3 +9,4 @@ Learning quant finance with Python, NumPy, SciPy, pandas, yfinance.
 - Day 7: Stress testing (20% market drop), correlation heatmap, LeetCode Median of Two Sorted Arrays.
 - Day 8: Sortino ratio, time series analysis (moving averages), LeetCode Container With Most Water.
 - Day 9: Portfolio optimization (max 40% per stock), GARCH volatility forecasting, LeetCode Trapping Rain Water.
+- Day 10: Monte Carlo option pricing (AAPL), rolling correlations, LeetCode Longest Palindromic Substring.
