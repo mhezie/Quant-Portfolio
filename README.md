@@ -12,3 +12,4 @@ Learning quant finance with Python, NumPy, SciPy, pandas, yfinance.
 - Day 10: Monte Carlo option pricing (AAPL), rolling correlations, LeetCode Longest Palindromic Substring.
 - Day 11: Backtesting MA crossover (AAPL), volatility surface analysis, LeetCode Regular Expression Matching.
 Day 12: Pairs trading (AAPL/MSFT), Black-Scholes Greeks (AAPL call), LeetCode Wildcard Matching.
+- Day 13: Mean-reversion strategy (AAPL), implied volatility calculation, LeetCode Minimum Window Substring.
