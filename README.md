@@ -14,3 +14,4 @@ Learning quant finance with Python, NumPy, SciPy, pandas, yfinance.
 Day 12: Pairs trading (AAPL/MSFT), Black-Scholes Greeks (AAPL call), LeetCode Wildcard Matching.
 - Day 13: Mean-reversion strategy (AAPL), implied volatility calculation, LeetCode Minimum Window Substring.
 Day 14: Momentum strategy (AAPL), binomial model option pricing, LeetCode Longest Valid Parentheses.
+- Day 15: Volatility breakout strategy (AAPL), Monte Carlo Greeks, LeetCode Regular Expression Matching II.
